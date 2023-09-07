@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "737437790611",
+    "project_id": "mlkit-project-1dbc1",
+    "storage_bucket": "mlkit-project-1dbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737437790611:android:cd675461e92dfd422df866",
+        "android_client_info": {
+          "package_name": "com.example.mlkit_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737437790611-jq3ua23jc9qjlp5kcoon4hsvkoadgce7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mlkit_demo",
+            "certificate_hash": "af6ac1605c48a0208198e024bc55604c9a1fe9e0"
+          }
+        },
+        {
+          "client_id": "737437790611-4dqoq764stn2v21bfaqai9j2da237j48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_2b4KV6-tAs1ZtmV_OapgHBEixIhJnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737437790611-4dqoq764stn2v21bfaqai9j2da237j48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737437790611-ufokpik4tfsnicp05s3alhuu9o5uchgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mlkitDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737437790611:android:c35efc7e70c881e92df866",
+        "android_client_info": {
+          "package_name": "com.example.new_mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737437790611-bto2obdiijgue1ha1vrair90daiqa472.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_mlkit",
+            "certificate_hash": "7feb2d9afc39cc308cc385b46c1eb5cb36893940"
+          }
+        },
+        {
+          "client_id": "737437790611-4dqoq764stn2v21bfaqai9j2da237j48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_2b4KV6-tAs1ZtmV_OapgHBEixIhJnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737437790611-4dqoq764stn2v21bfaqai9j2da237j48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737437790611-ufokpik4tfsnicp05s3alhuu9o5uchgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mlkitDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
